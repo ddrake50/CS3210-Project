@@ -1,0 +1,6 @@
+plant 10 15
+plant b 4
+c 15 12
+C [e, f] 50
+omnivore D 10
+omnivore [c, e, C, F] 20

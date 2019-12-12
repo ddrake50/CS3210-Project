@@ -1,0 +1,19 @@
+####      BB aBaBBaBaBaB~~~~~~~~~~~~~~~~~ bbb   b     D DD D  ccbc   ca a a b cc ##### ### ##
+######    BBBBBBBBBB BB BB~~~~~~~~~~~~~~~~~ a            DDD         c ccb a aa  ########  ##
+#######     B BBBBBBBBBBBB~~~~~~~~~~~~~~~~~ b           DDD            a a   A   ############
+######    ABABA ABBBBBBBB~~~~~~~~~~~~~~~                 D DD             b cbc   ###########
+#######    A  AABBBBBBBBB~~~~~~~~~~~~~        b bc         DD  c       G     ################
+############## A BBBBBBB~~~~~~~~~~~            A            D     G      aa    ###########   
+############   BAA B  BB  ~~~~~~~                        D                         ########  
+####    aab       BBBBB B   ~~~~ ~~        a aa     bDc         ddddd    d           ######  
+###       b      BBBBB B      ~~  ~~                             d F d                ####   
+##       G       AB B   C      ~   ~~~         aa        b         dddd      d          ###  
+#      aa            B e e          ~~  C                                                 ## 
+        a              B e           ~                     a        bb        A           #  
+   bb                                              bDccb                   A                 
+    a                       ee                       F                    A AA          AA d 
+aa         a                                                                A    AAA    AA   
+#################   ffff     ##############################           D  AAA AAA AAfffCfAAAAA
+################~~  fC     ~~~~################################      A A  AA AA   AA f fAA   
+##########~~~~~~~~~  ff  ~~~~~~~~~###########################               AA    AAA        
+###~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~###########################         A      ffff    

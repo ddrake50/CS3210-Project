@@ -1,0 +1,3 @@
+plant a 3 5
+herbivore B [a] 20
+omnivore D [a, B] 30
